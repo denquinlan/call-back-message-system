@@ -1,0 +1,92 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow-x: hidden;
+    border: solid;
+    background-color: whitesmoke;
+}
+.container {
+    margin: 0;
+    padding: 0;
+}
+
+#title {
+    position: fixed left;
+    background-color: whitesmoke;
+    width: auto;
+    padding-left: 1em;
+}
+
+.jumbotron {
+    border: solid;
+    border-color: black;
+    border-radius: 25px;
+    width: 40em;
+    margin: auto;
+    padding-left: 1em;
+    padding-bottom: 1em;
+    margin-bottom: 10em;
+    margin-top: 5em;
+    background-color: white;
+    
+}
+
+#enterName {
+    padding-bottom: 1em;
+}
+#enterReason{
+    padding-bottom:1em;
+}
+#enterNumber{
+    padding-bottom:1em;
+}
+#enterPrio{
+    padding-bottom:1em;
+}
+#enterCF{
+    padding-bottom:1em;
+}
+
+
+
+
+#callListTitle {
+    margin: 2em;
+    background-color: whitesmoke;
+   
+}
+/* I apoligize for this dripping wet code*/
+.names {
+    padding-left: .5em;
+}
+.reasons {
+    padding-left: 1em;
+}
+.numbers {
+    padding-left: 1em;
+}
+.howBad {
+    padding-left: 1em;
+}
+.callFor {
+    padding-left: 1em;
+}
+
+.refer {
+    border-bottom: solid;
+    
+}
+
+
+.well{
+    margin-top: 1em;
+    padding-top: 1em;
+    border: solid;
+    background-color: white;
+}
+
+#low {
+    color: green;
+}
+
